@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+labelme = "*"
+pyqt5 = "*"
+matplotlib = "*"
+opencv-python-headless = "*"
+colorama = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
